@@ -1,2 +1,6 @@
-Here are the files for my final project. The pitches and atbat csvs could not be uploaded due to size. 
-They are available on Kaggle at the link posted at the top of pitches.ipynb.
+Here are the files for my final project. 
+
+Pitches.ipynb contains exploratory analysis, data cleaning, feature engineering, and modelling.
+Scrape3.ipynb contains live predictions using the models created in Pitches.ipynb.
+
+The pitches and atbat csvs could not be uploaded due to size. They are available on Kaggle at the link posted at the top of pitches.ipynb.
